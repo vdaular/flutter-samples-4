@@ -4,11 +4,10 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "33731c88e33efbcf2390989cf2996808",
-"index.html": "ef44a765af535752c0ef2c581e07bad4",
-"/": "ef44a765af535752c0ef2c581e07bad4",
+"index.html": "62a839a6686a2f694378606f5397ef42",
+"/": "62a839a6686a2f694378606f5397ef42",
 "main.dart.js": "73a455c1ae3257e8dc6fcc69f640de3b",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"sql-wasm.js": "3542ba21b6eb710b86c0ba187e238386",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "442edaab40ad6a39367a8ec73d3f8d00",
@@ -128,8 +127,7 @@ const RESOURCES = {
 "assets/assets/android_icon.png": "52a8277f83d049770d1a4abaa7dd4fed",
 "assets/assets/icon_arrow_right.svg": "b8f2a12829453ecfeea34b9b381a20cc",
 "assets/assets/ios_icon.png": "1760c97d154eb9caaa37c623bca8f8d6",
-"assets/assets/logo.svg": "985c11c7e49530cacbffcfedac4a1ca1",
-"sql-wasm.wasm": "9acb7a2acdb22234cf19be0aa2f332d0"
+"assets/assets/logo.svg": "985c11c7e49530cacbffcfedac4a1ca1"
 };
 
 // The application shell files that are downloaded before a service worker can
