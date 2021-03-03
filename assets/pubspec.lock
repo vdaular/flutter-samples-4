@@ -770,7 +770,7 @@ packages:
     description:
       path: "packages/stream_chat_flutter"
       ref: develop
-      resolved-ref: e13ce930a64f397db03bc794eb47771134c8c5c3
+      resolved-ref: "3f912d7acbc2eb0ba0014092950345860814d52d"
       url: "https://github.com/GetStream/stream-chat-flutter.git"
     source: git
     version: "1.3.2-beta"
@@ -779,7 +779,7 @@ packages:
     description:
       path: "packages/stream_chat_flutter_core"
       ref: develop
-      resolved-ref: e13ce930a64f397db03bc794eb47771134c8c5c3
+      resolved-ref: "3f912d7acbc2eb0ba0014092950345860814d52d"
       url: "https://github.com/GetStream/stream-chat-flutter.git"
     source: git
     version: "1.3.2-beta"
@@ -788,7 +788,7 @@ packages:
     description:
       path: "packages/stream_chat_persistence"
       ref: develop
-      resolved-ref: e13ce930a64f397db03bc794eb47771134c8c5c3
+      resolved-ref: "3f912d7acbc2eb0ba0014092950345860814d52d"
       url: "https://github.com/GetStream/stream-chat-flutter.git"
     source: git
     version: "1.3.0-beta"
