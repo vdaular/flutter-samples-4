@@ -542,7 +542,7 @@ packages:
       name: pedantic
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.10.0"
+    version: "1.11.0"
   petitparser:
     dependency: transitive
     description:
@@ -763,7 +763,7 @@ packages:
     description:
       path: "packages/stream_chat"
       ref: develop
-      resolved-ref: b28ae1259757da75e9d8e16a35557b59c3705c81
+      resolved-ref: cc464469bedd9d73bcd4a12ef1b6987f0cb771e8
       url: "https://github.com/GetStream/stream-chat-flutter.git"
     source: git
     version: "1.3.2+1-beta"
@@ -772,7 +772,7 @@ packages:
     description:
       path: "packages/stream_chat_flutter"
       ref: develop
-      resolved-ref: b28ae1259757da75e9d8e16a35557b59c3705c81
+      resolved-ref: cc464469bedd9d73bcd4a12ef1b6987f0cb771e8
       url: "https://github.com/GetStream/stream-chat-flutter.git"
     source: git
     version: "1.3.2-beta"
@@ -781,7 +781,7 @@ packages:
     description:
       path: "packages/stream_chat_flutter_core"
       ref: develop
-      resolved-ref: b28ae1259757da75e9d8e16a35557b59c3705c81
+      resolved-ref: cc464469bedd9d73bcd4a12ef1b6987f0cb771e8
       url: "https://github.com/GetStream/stream-chat-flutter.git"
     source: git
     version: "1.3.2-beta"
@@ -790,7 +790,7 @@ packages:
     description:
       path: "packages/stream_chat_persistence"
       ref: develop
-      resolved-ref: b28ae1259757da75e9d8e16a35557b59c3705c81
+      resolved-ref: cc464469bedd9d73bcd4a12ef1b6987f0cb771e8
       url: "https://github.com/GetStream/stream-chat-flutter.git"
     source: git
     version: "1.3.0-beta"
