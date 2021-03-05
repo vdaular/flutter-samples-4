@@ -763,36 +763,32 @@ packages:
     description:
       path: "packages/stream_chat"
       ref: develop
-      resolved-ref: a4ebd48272c8d15d067d499ea6015d945b1de903
+      resolved-ref: "59339293997090d4802004bce76dacd123de3bdb"
       url: "https://github.com/GetStream/stream-chat-flutter.git"
     source: git
     version: "1.3.2+1-beta"
   stream_chat_flutter:
     dependency: "direct main"
     description:
-      path: "packages/stream_chat_flutter"
-      ref: develop
-      resolved-ref: a4ebd48272c8d15d067d499ea6015d945b1de903
-      url: "https://github.com/GetStream/stream-chat-flutter.git"
-    source: git
+      path: "../../stream-chat-flutter/packages/stream_chat_flutter"
+      relative: true
+    source: path
     version: "1.3.2-beta"
   stream_chat_flutter_core:
     dependency: transitive
     description:
       path: "packages/stream_chat_flutter_core"
       ref: develop
-      resolved-ref: a4ebd48272c8d15d067d499ea6015d945b1de903
+      resolved-ref: "59339293997090d4802004bce76dacd123de3bdb"
       url: "https://github.com/GetStream/stream-chat-flutter.git"
     source: git
     version: "1.3.2-beta"
   stream_chat_persistence:
     dependency: "direct main"
     description:
-      path: "packages/stream_chat_persistence"
-      ref: develop
-      resolved-ref: a4ebd48272c8d15d067d499ea6015d945b1de903
-      url: "https://github.com/GetStream/stream-chat-flutter.git"
-    source: git
+      path: "../../stream-chat-flutter/packages/stream_chat_persistence"
+      relative: true
+    source: path
     version: "1.3.0-beta"
   streaming_shared_preferences:
     dependency: "direct main"
