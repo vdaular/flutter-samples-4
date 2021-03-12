@@ -443,6 +443,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.4.0"
+  mutex:
+    dependency: transitive
+    description:
+      name: mutex
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.0.0"
   node_interop:
     dependency: transitive
     description:
@@ -554,7 +561,7 @@ packages:
       name: photo_manager
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.0.0"
+    version: "1.0.1"
   photo_view:
     dependency: transitive
     description:
@@ -762,7 +769,7 @@ packages:
       name: sqflite_common
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.0.3+1"
+    version: "1.0.3+3"
   sqlite3:
     dependency: transitive
     description:
@@ -792,32 +799,40 @@ packages:
     source: hosted
     version: "2.1.0"
   stream_chat:
-    dependency: transitive
+    dependency: "direct overridden"
     description:
-      name: stream_chat
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "packages/stream_chat"
+      ref: develop
+      resolved-ref: a8443a98b0df6457a819773c172ec1f9377698c5
+      url: "https://github.com/GetStream/stream-chat-flutter.git"
+    source: git
     version: "1.4.0-beta"
   stream_chat_flutter:
     dependency: "direct main"
     description:
-      name: stream_chat_flutter
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "packages/stream_chat_flutter"
+      ref: develop
+      resolved-ref: a8443a98b0df6457a819773c172ec1f9377698c5
+      url: "https://github.com/GetStream/stream-chat-flutter.git"
+    source: git
     version: "1.4.0-beta"
   stream_chat_flutter_core:
-    dependency: transitive
+    dependency: "direct overridden"
     description:
-      name: stream_chat_flutter_core
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "packages/stream_chat_flutter_core"
+      ref: develop
+      resolved-ref: a8443a98b0df6457a819773c172ec1f9377698c5
+      url: "https://github.com/GetStream/stream-chat-flutter.git"
+    source: git
     version: "1.4.0-beta"
   stream_chat_persistence:
     dependency: "direct main"
     description:
-      name: stream_chat_persistence
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "packages/stream_chat_persistence"
+      ref: develop
+      resolved-ref: a8443a98b0df6457a819773c172ec1f9377698c5
+      url: "https://github.com/GetStream/stream-chat-flutter.git"
+    source: git
     version: "1.4.0-beta"
   streaming_shared_preferences:
     dependency: "direct main"
@@ -965,7 +980,7 @@ packages:
       name: video_player
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.0.0"
+    version: "2.0.2"
   video_player_platform_interface:
     dependency: transitive
     description:
