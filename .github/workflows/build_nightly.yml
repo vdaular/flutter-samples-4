@@ -101,6 +101,8 @@ jobs:
         with:
           channel: stable
           cache: true
+          # https://github.com/flutter/flutter/issues/160127
+          flutter-version: 3.24.5
 
       - name: Copy production config
         run: echo "${{ secrets.PRODUCTION_CONFIG }}" > lib/app_config.dart
